@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# Roboti jazykových modelů jsou vítaní schválně —
+# nabídka se tak dostane i do odpovědí AI vyhledávačů.
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://hausbot.anzalerealestate.sk/sitemap.xml
